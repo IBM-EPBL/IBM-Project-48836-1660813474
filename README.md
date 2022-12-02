@@ -6,10 +6,15 @@ News Tracker Application
 
 >Team Members :
 | Title  | Name |
+
 | ------------- | ------------- |
+
 | Team leader | Gayathri K |
+
 | Team Member 1  | Kasthuri G  |
+
 | Team Member 2  | Kanchana N |
+
 | Team Member 3 | sudha M |
 
 
